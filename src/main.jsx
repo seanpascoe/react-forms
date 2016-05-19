@@ -1,6 +1,6 @@
 const React = require('react');
 const ReactDOM = require('react-dom');
-const EmailField = require('./components/EmailField.jsx')
+const LeadCapture = require('./components/LeadCapture.jsx')
 
 
-ReactDOM.render(<EmailField />, document.getElementById('main'));
+ReactDOM.render(<LeadCapture />, document.getElementById('main'));
